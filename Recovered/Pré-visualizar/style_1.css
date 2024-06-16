@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+ .content h1{
+    color: green;
+    padding-left: 500px;
+ }
+ .content p{
+    color: green;
+    font-weight: 200;
+    justify-content: center;
+ }

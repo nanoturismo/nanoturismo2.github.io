@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(0, 0, 0);;
+}
+
+.content h1{
+    color:rgb(8, 52, 199);
+    padding-left: 500px;
+}
+.content p{
+    font-weight: 100;
+    color: rgb(21, 64, 184);
+    justify-content: center;
+}
